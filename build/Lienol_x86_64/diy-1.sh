@@ -28,3 +28,4 @@ git clone https://github.com/destan19/OpenAppFilter.git package/luci-app-oaf
 git clone https://github.com/zzsj0928/luci-app-pushbot.git package/luci-app-pushbot
 git clone https://github.com/garypang13/luci-app-dnsfilter.git package/luci-app-dnsfilter
 git clone https://github.com/weweyes/luci-app-jd-dailybonus.git package/luci-app-jd-dailybonus
+git clone -b 19.07 https://github.com/kenzok8/small-package package/kenzok8
