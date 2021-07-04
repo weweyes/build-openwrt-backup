@@ -118,7 +118,9 @@ jobs:
           rm -rf package/diy/OpenAppFilter
         
         fi
-        
+        rm -rf tmp && ./scripts/feeds install -f -p ssrplus shadowsocksr-libev
+
+
 
     - name: 加载源,patch补丁和自定义设置
       run: |
