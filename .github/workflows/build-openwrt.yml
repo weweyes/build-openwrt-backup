@@ -147,7 +147,7 @@ jobs:
         
         
         fi
-        rm -rf tmp && ./scripts/feeds install -f -p helloworld shadowsocksr-libev
+        rm -rf tmp && ./scripts/feeds install -f -p ssrplus shadowsocksr-libev
 
 
         
