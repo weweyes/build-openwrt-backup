@@ -116,7 +116,7 @@ jobs:
           rm -rf package/lean/luci-theme-argon
           rm -rf package/lean/k3screenctrl
           rm -rf package/diy/OpenAppFilter
-          rm -rf tmp && ./scripts/feeds install -f -p ssrplus shadowsocksr-libev
+          
         fi
         
 
